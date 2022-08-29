@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **MongoDB ,React**
 
-- 👯 I’m looking to collaborate on **Andriod Developement & MongoDB**
+- 👯 I’m looking to collaborate on **Andriod Developement & nodejs**
 
-- 💬 Ask me about **Andriod, MongoDB**
+- 💬 Ask me about **Andriod, nodejs**
 
 - 📫 How to reach me **arpitgajya2001@gmail.com**
 
